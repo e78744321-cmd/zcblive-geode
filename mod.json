@@ -5,13 +5,13 @@
 },
   
   },
-  "version": "v1.2.1",
-  "id": "zeozeozeo.zcblive",
-  "name": "ZCB Live",
-  "developer": "zeozeozeo",
-  "description": "A next-generation Geometry Dash clickbot",
+  "version": "v1.2.1"
+  "id": "zeozeozeo.zcblive"
+  "name": "ZCB Live"
+  "developer": "zeozeozeo"
+  "description": "A next-generation Geometry Dash clickbot"
   "issues": {
-    "info": "Report any bugs/suggestions in the Discord server.",
+    "info": "Report any bugs/suggestions in the Discord server."
     "url": "https://discord.gg/BRVVVzxESu"
   },
   "tags": ["music", "utility", "cheat"]
